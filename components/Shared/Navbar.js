@@ -5,7 +5,7 @@ const Navbar=()=>{
 	     <header className="h-24 sm:h-32 flex items-center">
         <div className="container mx-auto px-6 sm:px-12 flex items-center justify-between">
             <div className="font-black text-blue-900 text-2xl flex items-start">
-                Company<span className="w-3 h-3 rounded-full bg-purple-600 ml-2"></span>
+                TutorIsFuture<span className="w-3 h-3 rounded-full bg-purple-600 ml-2"></span>
             </div>
             <div className="flex items-center">
                 <nav className="text-purple-900 text-lg hidden lg:flex items-center">
