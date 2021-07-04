@@ -6,7 +6,7 @@ const Footer =()=>{
         <div className="container mx-auto px-6">
             <div className="flex flex-col sm:flex-row items-center justify-end">
                 <div className="sm:w-2/3">
-                    <h4 className="text-3xl text-white leading-tight text-center sm:text-left">TutorIs Future is a simplyfied <br className="hidden sm:block" />easy, and <span className="font-bold underline">latest way of learning</span></h4>
+                    <h4 className="text-3xl text-white leading-tight text-center sm:text-left">TutorIs Future is a simplified <br className="hidden sm:block" />easy, and <span className="font-bold underline">latest way of learning</span></h4>
                 </div>
                 <div className="sm:w-1/3 mt-12 sm:mt-0 flex justify-end">
                     <p className="text-white text-xl">Mobile:-9098650975</p><br />

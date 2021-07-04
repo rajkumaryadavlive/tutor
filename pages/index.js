@@ -19,7 +19,7 @@ export default function Home() {
             <p className="lg:text-lg mb-4 sm:mb-12">Online Classes, Free Career Consultation</p>
             
             <div className="flex justify-between">
-            <a href="#" className="font-semibold text-lg bg-blue-500 hover:bg-blue-400 text-white py-3 px-10 rounded-full">Learn more</a>
+            <a href="https://icallasia.com/lms" target="_blank" className="font-semibold text-lg bg-blue-500 hover:bg-blue-400 text-white py-3 px-10 rounded-full">Join Now</a>
              <a href=""className="ml-3">
              <svg className="h-12 w-12 text-blue-500"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <polygon points="10 8 16 12 10 16 10 8" /></svg>
             </a>
@@ -88,7 +88,7 @@ export default function Home() {
         <div className="container mx-auto px-6 flex flex-col items-center">
             <h3 className="text-center font-bold text-4xl text-gray-800 mb-4">Ready to get started?</h3>
             <p className="text-gray-600 leading-relaxed text-lg mb-8 text-center">
-               Simplified and Latest way of learning is ready to give wings to your dreams.
+               simplified and Latest way of learning is ready to give wings to your dreams.
             </p>
             <button className="mx-auto bg-blue-600 hover:bg-blue-500 text-white rounded py-3 px-8 shadow-lg text-xl">
               Join Now
