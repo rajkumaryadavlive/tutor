@@ -17,7 +17,13 @@ export default function Home() {
         <div className="sm:w-2/5 flex flex-col items-start mt-8 sm:mt-0">
             <h1 className="text-4xl lg:text-6xl leading-none mb-4"><strong className="font-black">Join And</strong> Learn</h1>
             <p className="lg:text-lg mb-4 sm:mb-12">Online Classes, Free Career Consultation</p>
+            
+            <div className="flex justify-between">
             <a href="#" className="font-semibold text-lg bg-blue-500 hover:bg-blue-400 text-white py-3 px-10 rounded-full">Learn more</a>
+             <a href=""className="ml-3">
+             <svg className="h-12 w-12 text-blue-500"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <polygon points="10 8 16 12 10 16 10 8" /></svg>
+            </a>
+            </div>
         </div>
         <div className="sm:w-3/5">
         <div class="float-right">
