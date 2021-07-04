@@ -71,7 +71,7 @@ export default function Home() {
                     become self dependent.
                 </p>
                 <button className="mx-auto bg-blue-600 hover:bg-blue-500 text-white rounded py-2 px-8 shadow-lg">
-                    Action
+                    Join
                 </button>
             </div>
         </div>
@@ -80,13 +80,12 @@ export default function Home() {
       
     <div className="bg-gray-100 py-20">
         <div className="container mx-auto px-6 flex flex-col items-center">
-            <h3 className="text-center font-bold text-4xl text-gray-800 mb-4">Lorem ipsum dolor sit amet</h3>
+            <h3 className="text-center font-bold text-4xl text-gray-800 mb-4">Ready to get started?</h3>
             <p className="text-gray-600 leading-relaxed text-lg mb-8 text-center">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-                at ipsum eu nunc commodo posuere et sit amet ligula.
+               Simplified and Latest way of learning is ready to give wings to your dreams.
             </p>
             <button className="mx-auto bg-blue-600 hover:bg-blue-500 text-white rounded py-3 px-8 shadow-lg text-xl">
-                Action
+              Join Now
             </button>
         </div>
     </div>
