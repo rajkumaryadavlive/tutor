@@ -10,7 +10,7 @@ export default function Home() {
       <Head>
         <title>Tutor</title>
         <meta name="description" content="Lear In Easy Step" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.png" />
       </Head>
 
        <div className="container mx-auto px-6 sm:px-12 flex flex-col-reverse sm:flex-row items-center">
